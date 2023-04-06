@@ -1,1 +1,2 @@
 # odin-recipes
+The project that I will be making is a webiste that shows a recipe of my favorite meal! I will be using links and images as well as creating an html to make show to how to make a meal! I will also be using git to add and commit my work. The website will just be a basic webite (no colors because I haven't learned that yet).
